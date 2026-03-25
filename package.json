@@ -4,7 +4,7 @@
   "type": "module",
   "module": "index.ts",
   "scripts": {
-    "dev": "bun run src/index.ts"
+    "dev": "bun src/index.ts"
   },
   "dependencies": {
     "@ai-sdk/openai": "^3.0.48",
