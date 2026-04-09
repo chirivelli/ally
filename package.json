@@ -7,13 +7,13 @@
     "dev": "bun src/index.ts"
   },
   "dependencies": {
-    "@ai-sdk/openai": "^3.0.48",
-    "@openrouter/ai-sdk-provider": "^2.3.3",
-    "ai": "^6.0.137"
+    "@ai-sdk/openai": "^3.0.52",
+    "@openrouter/ai-sdk-provider": "^2.5.1",
+    "ai": "^6.0.154"
   },
   "devDependencies": {
     "@types/bun": "latest",
-    "oxfmt": "^0.42.0"
+    "oxfmt": "^0.44.0"
   },
   "peerDependencies": {
     "typescript": "^6.0.2"
